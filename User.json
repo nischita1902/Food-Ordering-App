@@ -1,0 +1,16 @@
+{
+    "1": {
+        "FullName": "Nischita",
+        "PhoneNumber": 8500972581,
+        "EmailID": "nischita@gmail.com",
+        "Address": "Hyderabad",
+        "Password": "Sweety"
+    },
+    "2": {
+        "FullName": "Nani",
+        "PhoneNumber": 9724147725,
+        "EmailID": "nani",
+        "Address": "Chennai",
+        "Password": "Nani"
+    }
+}
